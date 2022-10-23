@@ -5,3 +5,4 @@ Task 3. The long format
 Task 4. Hidden files
 Task 5. I love numbers
 Task 6. Welcome
+Task 13. We are symbols, and inhabit symbols
