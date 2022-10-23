@@ -14,3 +14,4 @@ Task 11. Lists
 task 12. File type
 task 9. Bye bye My first directory
 task 8. Bye bye Betty
+task 7. Betty in my first directory
