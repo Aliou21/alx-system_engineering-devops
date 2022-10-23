@@ -9,3 +9,5 @@ Task 13. We are symbols, and inhabit symbols
 Task 14. Copy HTML files
 Task 10. Back to the future
 task 15. Let’s move
+task 16. Clean Emacs
+Task 11. Lists
