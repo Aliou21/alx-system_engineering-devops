@@ -12,3 +12,4 @@ task 15. Let’s move
 task 16. Clean Emacs
 Task 11. Lists
 task 12. File type
+task 9. Bye bye My first directory
